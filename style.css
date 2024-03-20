@@ -66,8 +66,21 @@ body {
 .save-user {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .remember-checkbox {
-  
+  width: 14px;
+  height: 14px;
+  margin-right: 2px;
+}
+
+.remember-text {
+  font-size: 12px;
+  margin-right: 24px;
+}
+
+.forgot-pass {
+  font-size: 12px;
+  color: blue;
 }
