@@ -57,3 +57,17 @@ body {
   font-size: 14px;
   color: rgb(169,169,169);
 }
+
+.form-extras {
+  display: flex;
+  justify-content: center;
+}
+
+.save-user {
+  display: flex;
+  justify-content: center;
+}
+
+.remember-checkbox {
+  
+}
